@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/1f989d45-982f-471f-adbc-5ca16
 3. Run the app:
    `npm run dev`
 "# gettechgo" 
+"# gettechgo" 
